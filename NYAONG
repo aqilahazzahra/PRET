@@ -128,8 +128,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-ID="SonyOne.id" group-title="Movies" tvg-logo="https://macan.live/img/sonyone.png", Sony One
 https://delivery.macan.live/stream/sonyone/index.m3u8?token=OmcqD0yS&v=20200308
-#EXTINF:-1 tvg-ID="ArirangTV.kr" group-title="Movies" tvg-logo="https://macan.live/img/arirang.png", Arirang
-https://delivery.macan.live/stream/arirang/index.m3u8?token=OmcqD0yS&v=20200308
+
 #EXTINF:-1 tvg-ID="tvN" group-title="Movies" tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png", tvN
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=OmcqD0yS&v=20200308
 #EXTINF:-1 tvg-ID="tvN Movies" group-title="Movies" tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png", tvN Movies
@@ -150,7 +149,7 @@ https://delivery.macan.live/stream/cm/index.m3u8?token=OmcqD0yS&v=20200308
 https://delivery.macan.live/stream/ccm/index.m3u8?token=OmcqD0yS&v=20200308
 #EXTINF:-1 tvg-ID="SCMLegend.id" group-title="Movies" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png", SCM Legend
 https://delivery.macan.live/stream/scmlegend/index.m3u8?token=OmcqD0yS&v=20200308
-#EXTINF:-1 tvg-ID="StarMoviesMoviesEn.hk" group-title="Movies" tvg-logo="https://macan.live/img/star_Movies_movies.png", Star Movies Movies
+#EXTINF:-1 tvg-ID="StarMoviesMoviesEn.hk" group-title="Movies" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png", Star Movies Movies
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=OmcqD0yS&v=20200308
 #EXTINF:-1 tvg-ID="ZEEBioskop" group-title="Movies" tvg-logo="https://macan.live/img/zeebioskop.png", ZEE Bioskop
 https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=OmcqD0yS&v=20200308
@@ -446,6 +445,9 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 
 
 #https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
+
+#EXTINF:-1 tvg-ID="ArirangTV.kr" group-title="News" tvg-logo="https://macan.live/img/arirang.png", Arirang
+https://delivery.macan.live/stream/arirang/index.m3u8?token=OmcqD0yS&v=20200308
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLfn3Zh7/blom4.png" group-title="News",Bloomberg
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28804.ts?token=HhVYAkpZQF8XUlAPV1VdUgZVVwFUWlADUVYNVABUAFcED1RSAARUAAQTThtFQ0pVUlk6X1QaWVNdCghXG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQVRVRsSE1BVQF8XAlMKDwcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAHFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwUGCwcGFhg=
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP2TgbWK/eu4.png" group-title="News",EuroNews
