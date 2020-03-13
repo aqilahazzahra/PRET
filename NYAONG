@@ -4,11 +4,14 @@ https://delivery.macan.live/stream/id_nettv/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="RCTI.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png", RCTI
 https://delivery.macan.live/stream/id_rcti/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="MNCTV.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/hhVMBt96/MNCTV.png", MNCTV
-https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=uMJIl4xG&v=20200308
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="GTV.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", GTV
-https://delivery.macan.live/stream/id_gtv/index.m3u8?token=uMJIl4xG&v=20200308
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_gtv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="iNews.id" group-title="Backup Lokal" tvg-logo="https://macan.live/img/inews.png", iNews
-https://delivery.macan.live/stream/id_inews/index.m3u8?token=uMJIl4xG&v=20200308
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_inews/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="VisionPrime.id" group-title="Backup Lokal" tvg-logo="https://macan.live/img/visionprime.png", Vision Prime
 https://delivery.macan.live/stream/visionprime/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="Indosiar.id" group-title="Backup Lokal" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png", INDOSIAR
