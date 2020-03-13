@@ -4,11 +4,14 @@ https://delivery.macan.live/stream/id_nettv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="RCTI.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png", RCTI
 https://delivery.macan.live/stream/id_rcti/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="MNCTV.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/hhVMBt96/MNCTV.png", MNCTV
-https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=Z0WJAWX3&v=20200308
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="GTV.id" group-title="Backup Lokal" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", GTV
-https://delivery.macan.live/stream/id_gtv/index.m3u8?token=Z0WJAWX3&v=20200308
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_gtv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="iNews.id" group-title="Backup Lokal" tvg-logo="https://macan.live/img/inews.png", iNews
-https://delivery.macan.live/stream/id_inews/index.m3u8?token=Z0WJAWX3&v=20200308
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#https://delivery.macan.live/stream/id_inews/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="VisionPrime.id" group-title="Backup Lokal" tvg-logo="https://macan.live/img/visionprime.png", Vision Prime
 https://delivery.macan.live/stream/visionprime/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="Indosiar.id" group-title="Backup Lokal" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png", INDOSIAR
@@ -338,13 +341,13 @@ http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=Z0WJAWX3&v=20200308
 #EXTINF:-1 tvg-ID="MTVLive.nl" group-title="Music" tvg-logo="https://macan.live/img/mtv_live.png", MTV Live HD
 #https://delivery.macan.live/stream/mtv_live/index.m3u8?token=Z0WJAWX3&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/karaoke.png" group-title="Music",Karaoke
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydc4YYDL/kar4.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/prambors.png" group-title="Music",Prambors
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logohttps://i.postimg.cc/L5SdqKf2/prams4.png" group-title="Music",Prambors
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/dangdutz.png" group-title="Music",Dangdutz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KYdh2g8K/dangs4.png" group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/lapakmusik.png" group-title="Music",Lapak Musik
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7LCrdNw8/lapak4y.png" group-title="Music",Lapak Musik
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.live/img/mtv_live.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
