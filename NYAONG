@@ -197,14 +197,16 @@ https://delivery.macan.live/stream/ccm/index.m3u8?token=uMJIl4xG&v=20200308
 #https://delivery.macan.live/stream/scmlegend/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="StarMoviesMoviesEn.hk" group-title="Movies" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png", Star Movies Movies
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=uMJIl4xG&v=20200308
-#EXTINF:-1 tvg-ID="ZEEBioskop" group-title="Movies" tvg-logo="https://macan.live/img/zeebioskop.png", ZEE Bioskop
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
 https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=uMJIl4xG&v=20200308
+#EXTINF:-1 tvg-ID="ZEEBioskop" group-title="Movies" tvg-logo="https://macan.live/img/zeebioskop.png", ZEE Bioskop
+#https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="ZeeTV.sg" group-title="Movies" tvg-logo="https://macan.live/img/zeetv.png", ZEE TV
 https://delivery.macan.live/stream/zeetv/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bvC0JmDv/son44.png" group-title="Movies",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
-https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=uMJIl4xG&v=20200308
+
+
 
 #####################enter
 
@@ -278,7 +280,7 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kraDPq.png" group-title="Kids",AniPlus #3
 http://210.210.155.35/session/d28e34c0-2f53-11e9-8f4d-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdmM5Up.png" group-title="Kids",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61Y3OYa.jpg" group-title="Kids",Boruto TV
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
@@ -290,12 +292,6 @@ http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high
 http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpcukdD.png" group-title="Kids",Detective Conan #3
 http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zpp9fz7.jpg" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7rkqHX.jpg" group-title="Kids",Disney JUNIOR ID #1
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XbLHGSt.png" group-title="Kids",Disney XD
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GDvq0Oe.gif" group-title="Kids",Doraemon MOVIE
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewF9uax.jpg" group-title="Kids",Doraemon SERIES
@@ -316,14 +312,10 @@ http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high
 http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Kurokoai Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 #EXTINF:-1 tvg-logo="" group-title="Kids",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Kids",ONE PIECE TV
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
 #EXTINF:-1 tvg-logo="" group-title="Kids",ONE PUNCH MAN
@@ -345,7 +337,7 @@ http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high
 #EXTINF:-1 tvg-ID="ChannelV.id" group-title="Music" tvg-logo="https://macan.live/img/channel_v_int.png", Channel V. Int
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="MTVLive.nl" group-title="Music" tvg-logo="https://macan.live/img/mtv_live.png", MTV Live HD
-https://delivery.macan.live/stream/mtv_live/index.m3u8?token=uMJIl4xG&v=20200308
+#https://delivery.macan.live/stream/mtv_live/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/karaoke.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/prambors.png" group-title="Music",Prambors
@@ -354,26 +346,26 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/lapakmusik.png" group-title="Music",Lapak Musik
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/mtv.png" group-title="Music",MTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.live/img/mtv_live.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/traceaf.png" group-title="Music",Trace Africa
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tracena.png" group-title="Music",Trace Naija
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tracemz.png" group-title="Music",Trace Mziki
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/traceto.png" group-title="Music",Trace Toca
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tracetro.png" group-title="Music",Trace Tropical
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/traceki.png" group-title="Music",Trace Kitoko
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/traceay.png" group-title="Music",Trace Ayiti
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Ayiti
 https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tracela.png" group-title="Music",Trace Latina
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/4/prog_index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tracego.png" group-title="Music",Trace Gospel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxV8zZB8/trce4y.png" group-title="Music",Trace Gospel
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/4/prog_index.m3u8
 
 
@@ -424,9 +416,9 @@ https://delivery.macan.live/stream/hgtv/index.m3u8?token=uMJIl4xG&v=20200308
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="TLC.id" group-title="Knowledge" tvg-logo="https://macan.live/img/tlc.png", TLC
 https://delivery.macan.live/stream/tlc/index.m3u8?token=uMJIl4xG&v=20200308
-#EXTINF:-1 tvg-ID="BBCEarth.id" group-title="News" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth
+#EXTINF:-1 tvg-ID="BBCEarth.id" group-title="Knowledge" tvg-logo="https://macan.live/img/bbc_earth.png", BBC Earth
 https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=uMJIl4xG&v=20200308
-#EXTINF:-1 tvg-ID="BBC Lifestyle" group-title="News" tvg-logo="https://macan.live/img/bbc_lifestyle.png", BBC Lifestyle
+#EXTINF:-1 tvg-ID="BBC Lifestyle" group-title="Knowledge" tvg-logo="https://macan.live/img/bbc_lifestyle.png", BBC Lifestyle
 https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="AnimalPlanet.id" group-title="Knowledge" tvg-logo="https://macan.live/img/animalplanet.png", Animal Planet
 https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=uMJIl4xG&v=20200308
@@ -539,7 +531,7 @@ https://delivery.macan.live/stream/id_cna/index.m3u8?token=uMJIl4xG&v=20200308
 #EXTINF:-1 tvg-ID="Bloomberg" group-title="News" tvg-logo="https://macan.live/img/bloomberg.png", Bloomberg
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=uMJIl4xG&v=20200308
 
-
+####################### sport ################################
 
 #EXTINF:-1 tvg-ID="FOX Sport 1" group-title="Sports" tvg-logo="https://macan.live/img/fox_sports_1.png", FOX Sport 1
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=uMJIl4xG&v=20200308
